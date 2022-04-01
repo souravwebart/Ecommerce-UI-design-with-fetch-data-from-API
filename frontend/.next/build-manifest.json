@@ -25,6 +25,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/product": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/product.js"
+    ],
     "/product/[slug]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
